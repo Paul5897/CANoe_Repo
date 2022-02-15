@@ -1,0 +1,31 @@
+/*@!Encoding:1252*/
+includes
+{
+  
+}
+
+variables
+{
+  
+}
+
+on signal NewSignal
+{
+  
+}
+
+on signal_update NewSignal
+{
+  
+}
+
+on sysvar NewSysvar
+{
+  
+}
+
+on sysvar_update NewSysvar
+{
+  
+}
+
